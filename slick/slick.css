@@ -122,3 +122,10 @@ img.art-img {
     height: 230px;
     width: 321px;
 }
+
+.row.form-busqueda {
+    background: whitesmoke;
+    padding: 7px;
+    margin-right: 81px;
+    margin-left: 46px;
+}
